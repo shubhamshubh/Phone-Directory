@@ -1,0 +1,16 @@
+.zero {
+	width: 0px;
+	padding: 0px;
+	margin: 0px;
+	height: 0px;
+}
+body {
+	background-color: red;
+}
+.list{
+	width: 15%;
+	margin: 5%;
+}
+.seq {
+	width:100%;
+}
